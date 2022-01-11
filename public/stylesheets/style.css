@@ -1,0 +1,16 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+.body{
+  height: 92vh;
+  width: 100%;
+  background-color: rgb(195, 195, 255);
+  display: flex;
+  flex-direction: column;
+}
+.body h1{
+  margin-left: 350px;
+  font-size: 5rem;
+  font-family: monospace;
+}
